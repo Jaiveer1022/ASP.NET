@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dac.STUDENTSDC\\Downloads\\Day7-20250701T084115Z-1-001\\Day7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D275E-5863-46FC-BFF8-2CEDE4855F3D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dac.studentsdc\\downloads\\day7-20250701t084115z-1-001\\day7\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D275E-5863-46FC-BFF8-2CEDE4855F3D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2794B6-DF71-40AE-B49C-6F78A861AC0B}|LinqExample2\\LinqExample2.csproj|c:\\users\\dac.studentsdc\\downloads\\day7-20250701t084115z-1-001\\day7\\linqexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2794B6-DF71-40AE-B49C-6F78A861AC0B}|LinqExample2\\LinqExample2.csproj|solutionrelative:linqexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77F8A25-2EC4-4C95-B25B-8279C748EFF8}|ThreadPoolExample\\ThreadPoolExample.csproj|c:\\users\\dac.studentsdc\\downloads\\day7-20250701t084115z-1-001\\day7\\threadpoolexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77F8A25-2EC4-4C95-B25B-8279C748EFF8}|ThreadPoolExample\\ThreadPoolExample.csproj|solutionrelative:threadpoolexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A3F894-43A8-4D31-8DF3-FF29383DF880}|ThreadingExamples\\ThreadingExamples.csproj|c:\\users\\dac.studentsdc\\downloads\\day7-20250701t084115z-1-001\\day7\\threadingexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A3F894-43A8-4D31-8DF3-FF29383DF880}|ThreadingExamples\\ThreadingExamples.csproj|solutionrelative:threadingexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dac.STUDENTSDC\\Downloads\\Day7-20250701T084115Z-1-001\\Day7\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\dac.STUDENTSDC\\Downloads\\Day7-20250701T084115Z-1-001\\Day7\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAgwIMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:52:41.184Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dac.STUDENTSDC\\Downloads\\Day7-20250701T084115Z-1-001\\Day7\\ThreadPoolExample\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadPoolExample\\Program.cs",
+              "ToolTip": "C:\\Users\\dac.STUDENTSDC\\Downloads\\Day7-20250701T084115Z-1-001\\Day7\\ThreadPoolExample\\Program.cs",
+              "RelativeToolTip": "ThreadPoolExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:07:13.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dac.STUDENTSDC\\Downloads\\Day7-20250701T084115Z-1-001\\Day7\\ThreadingExamples\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadingExamples\\Program.cs",
+              "ToolTip": "C:\\Users\\dac.STUDENTSDC\\Downloads\\Day7-20250701T084115Z-1-001\\Day7\\ThreadingExamples\\Program.cs",
+              "RelativeToolTip": "ThreadingExamples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T05:34:26.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "b5187f0e-3044-4db9-98c1-aae1bb3c4684",
+        "Display": 0,
+        "X": 955,
+        "Y": 0,
+        "Width": 970,
+        "Height": 1045,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dac.STUDENTSDC\\Downloads\\Day7-20250701T084115Z-1-001\\Day7\\LinqExample2\\Program.cs",
+              "RelativeDocumentMoniker": "LinqExample2\\Program.cs",
+              "ToolTip": "C:\\Users\\dac.STUDENTSDC\\Downloads\\Day7-20250701T084115Z-1-001\\Day7\\LinqExample2\\Program.cs",
+              "RelativeToolTip": "LinqExample2\\Program.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAAwHkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T02:26:54.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

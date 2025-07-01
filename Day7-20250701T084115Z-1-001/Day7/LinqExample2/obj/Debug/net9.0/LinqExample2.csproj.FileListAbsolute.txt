@@ -1,0 +1,14 @@
+D:\Trainings\ActsJune25\Day7\LinqExample2\bin\Debug\net9.0\LinqExample2.exe
+D:\Trainings\ActsJune25\Day7\LinqExample2\bin\Debug\net9.0\LinqExample2.deps.json
+D:\Trainings\ActsJune25\Day7\LinqExample2\bin\Debug\net9.0\LinqExample2.runtimeconfig.json
+D:\Trainings\ActsJune25\Day7\LinqExample2\bin\Debug\net9.0\LinqExample2.dll
+D:\Trainings\ActsJune25\Day7\LinqExample2\bin\Debug\net9.0\LinqExample2.pdb
+D:\Trainings\ActsJune25\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\ActsJune25\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.AssemblyInfoInputs.cache
+D:\Trainings\ActsJune25\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.AssemblyInfo.cs
+D:\Trainings\ActsJune25\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.csproj.CoreCompileInputs.cache
+D:\Trainings\ActsJune25\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.dll
+D:\Trainings\ActsJune25\Day7\LinqExample2\obj\Debug\net9.0\refint\LinqExample2.dll
+D:\Trainings\ActsJune25\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.pdb
+D:\Trainings\ActsJune25\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.genruntimeconfig.cache
+D:\Trainings\ActsJune25\Day7\LinqExample2\obj\Debug\net9.0\ref\LinqExample2.dll
